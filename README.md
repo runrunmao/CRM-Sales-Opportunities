@@ -76,7 +76,8 @@ This initiative transformed raw CRM data into a scalable performance tool that s
 
 ## Dashboard Preview
 
-Below is a snapshot of the interactive sales performance dashboard built in Google Sheets:
+Below is the link of the interactive sales performance dashboard built in Google Sheets:
+[🔗 View the Interactive Dashboard](https://docs.google.com/spreadsheets/d/1mOJyaydlU1x64V96lIur_-PcDwqTVOJs1diEff1hzeY/edit?usp=sharing)
 
 
 
