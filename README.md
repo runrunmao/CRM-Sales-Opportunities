@@ -80,6 +80,7 @@ Below is the link of the interactive sales performance dashboard built in Google
 [🔗 View the Interactive Dashboard](https://docs.google.com/spreadsheets/d/1mOJyaydlU1x64V96lIur_-PcDwqTVOJs1diEff1hzeY/edit?usp=sharing)
 
 
+<img width="917" alt="CRM Sales Dashboards - Pivot Table" src="https://github.com/user-attachments/assets/f5e7c7b7-4c9c-465b-8104-fbdf1c670036" />
 
 
 ---
